@@ -1,0 +1,25 @@
+@import url('SFProDisplay/SFProDisplay.css');
+body {
+  text-align: justify;
+  font-family: SFProDisplay,sans-serif;
+  font-weight: 400;
+  line-height: 1.4em;
+  font-size: 1.5em;
+}
+hr {
+  border-top: 1px solid lightgrey;
+  border-bottom: none;
+  border-left: none;
+}
+
+a, a:visited {
+  text-decoration:none;
+  color: blue;
+  
+  word-wrap: break-word;
+}
+
+table {
+  border-collapse: collapse;
+  font: inherit;
+}
